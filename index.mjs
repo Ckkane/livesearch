@@ -1,10 +1,10 @@
 import WebSocket from "ws";
 import axios from "axios";
-import { SocksProxyAgent } from 'socks-proxy-agent';
+// import { SocksProxyAgent } from 'socks-proxy-agent';
 
-const agent = new SocksProxyAgent(
-  'socks://162.43.73.18:8080'
-);
+// const agent = new SocksProxyAgent(
+//   'socks://162.43.73.18:8080'
+// );
 
 let x = Date.now();
 
