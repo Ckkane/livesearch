@@ -9,7 +9,7 @@ import axios from "axios";
 let x = Date.now();
 
 const ws = new WebSocket(
-  "wss://www.pathofexile.com/api/trade/live/Keepers/Yp9VwQX6iY",
+  "wss://www.pathofexile.com/api/trade/live/Keepers/bGkE7LV2uL",
   // { agent },
   {
     headers: {
